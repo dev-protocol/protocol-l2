@@ -49,7 +49,7 @@
 		"prettier": "3.5.2",
 		"prettier-plugin-solidity": "1.4.2",
 		"solhint": "5.0.5",
-		"truffle": "5.4.1",
+		"truffle": "5.11.5",
 		"truffle-plugin-verify": "0.6.7",
 		"truffle-typings": "1.0.8",
 		"ts-generator": "0.1.1",
